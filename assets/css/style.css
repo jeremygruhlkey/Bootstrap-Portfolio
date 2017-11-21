@@ -1,0 +1,36 @@
+body {
+    background-image: url("../images/scratch.png");  
+
+}
+
+.navbar { 
+    background-color: #ffffff;
+    height: 70px;
+}
+
+.navbar-right {
+    margin-top: 12px;
+}
+
+h1 {
+    font-size: 24px;
+    background-color: #4aaaa5;
+    font-family: "Georgia", 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+    padding: 19px 60px 23px 55px;
+    margin: 0px;
+    position: absolute;
+    left: 80px;
+}
+
+/* .navbar-brand {
+    background-color: #4aaaa5;
+    font-family: "Georgia", 'Times New Roman', Times, serif;
+    color: white;
+    padding: 15px 25px 20px 25px;
+    position: absolute;
+    left: 80px;
+    */
+
+
