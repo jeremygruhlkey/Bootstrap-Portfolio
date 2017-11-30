@@ -38,6 +38,15 @@ p {
     bottom: 40px;
     padding-top: 10px;
 }
+
+.contact-form {
+    margin: 15px;
+}
+
+#submit-button {
+    background-color: rgb(66, 139, 202);
+    color: white;
+}
 /* .footer {
     position: absolute;
     bottom: 0;
